@@ -12,3 +12,4 @@ my_greeting = "Hello"
 puts my_greeting + ", how are you, " + my_name + "?"
 
 # change the values of these variables
+my_name = "Joe"
