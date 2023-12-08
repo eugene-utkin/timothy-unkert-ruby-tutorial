@@ -5,3 +5,4 @@ print "Hello, my name is Evgeniy.\n"
 puts "Hello, my name is Evgeniy."
 
 # declare and initialize variables to use with printing
+my_name = "Evgeniy"
