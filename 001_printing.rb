@@ -17,3 +17,5 @@ my_greeting = "Get lost"
 
 # print the new values of the variables to the screen
 puts my_greeting + ", " + my_name + "."
+
+# string method
