@@ -10,3 +10,5 @@ my_greeting = "Hello"
 
 # concatenating variables and strings
 puts my_greeting + ", how are you, " + my_name + "?"
+
+# change the values of these variables
