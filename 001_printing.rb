@@ -9,4 +9,4 @@ my_name = "Evgeniy"
 my_greeting = "Hello"
 
 # concatenating variables and strings
-puts my_greeting + ", how are you, " + my_name
+puts my_greeting + ", how are you, " + my_name + "?"
