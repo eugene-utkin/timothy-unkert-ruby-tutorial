@@ -14,3 +14,5 @@ puts my_greeting + ", how are you, " + my_name + "?"
 # change the values of these variables
 my_name = "Joe"
 my_greeting = "Get lost"
+
+# print the new values of the variables to the screen
