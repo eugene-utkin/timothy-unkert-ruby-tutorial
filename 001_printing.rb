@@ -19,3 +19,4 @@ my_greeting = "Get lost"
 puts my_greeting + ", " + my_name + "."
 
 # string method
+puts my_name.upcase
