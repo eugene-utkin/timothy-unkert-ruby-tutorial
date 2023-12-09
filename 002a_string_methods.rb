@@ -20,3 +20,4 @@ puts my_nicely_formatted_string.length
 
 # Escape characters (not really methods but I thought I'd included them here)
 puts "I said, \"Hi\""
+puts "\tThis is tabbed over."
