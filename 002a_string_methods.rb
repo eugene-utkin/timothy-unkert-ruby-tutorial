@@ -13,3 +13,5 @@ puts "book title that's really cool".capitalize
 my_nicely_formatted_string = my_badly_formatted_string.strip
 puts my_nicely_formatted_string
 puts my_badly_formatted_string
+
+# find the length of the strings
