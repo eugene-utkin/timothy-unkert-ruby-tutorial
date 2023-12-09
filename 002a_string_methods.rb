@@ -4,3 +4,4 @@ my_website = "https://unkertmedia.com"
 my_badly_formatted_string = "                Hello, how are you?           "
 
 # change the string with built in methods
+print "My name is " + my_name + " and my website is " + my_website
