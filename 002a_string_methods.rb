@@ -8,3 +8,5 @@ print "My name is " + my_name + " and my website is " + my_website + ".\n"
 print "My name is " + my_name.upcase + " and my website is " + my_website.capitalize + ".\n"
 print "My name is " + my_name.downcase + " and my website is " + my_website + ".\n"
 puts "book title that's really cool".capitalize
+
+# creating a new variable for an old variable (use a method to format the old variable)
