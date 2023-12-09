@@ -10,3 +10,4 @@ print "My name is " + my_name.downcase + " and my website is " + my_website + ".
 puts "book title that's really cool".capitalize
 
 # creating a new variable for an old variable (use a method to format the old variable)
+my_nicely_formatted_string = my_badly_formatted_string.strip
