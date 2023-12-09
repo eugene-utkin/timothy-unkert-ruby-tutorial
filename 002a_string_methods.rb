@@ -12,3 +12,4 @@ puts "book title that's really cool".capitalize
 # creating a new variable for an old variable (use a method to format the old variable)
 my_nicely_formatted_string = my_badly_formatted_string.strip
 puts my_nicely_formatted_string
+puts my_badly_formatted_string
