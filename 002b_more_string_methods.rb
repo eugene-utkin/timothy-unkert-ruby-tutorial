@@ -16,3 +16,4 @@ puts my_name[0, 3] # prints out 'Evg', this goes from index 0 up through index 2
 puts my_website.index("u")
 
 puts my_website.length
+puts my_website[8, 23]
