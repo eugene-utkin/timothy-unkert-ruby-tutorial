@@ -3,4 +3,4 @@ my_name = "Evgeniy Utkin"
 my_website = "https://unkertmedia.com"
 
 # printing out specific characters in a string
-puts my_name[0]
+puts my_name[0] # print out 'T'
