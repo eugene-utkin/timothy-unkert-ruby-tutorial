@@ -17,3 +17,4 @@ puts my_website.index("u")
 
 puts my_website.length
 puts my_website[8, 23]
+puts my_website[23]
