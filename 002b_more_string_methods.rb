@@ -10,4 +10,4 @@ puts my_name[-1] # print out 'n', the last character of the string
 puts my_name[2]
 
 # create a slice of a string
-puts my_name[0, 3] # prints out 'Evg'
+puts my_name[0, 3] # prints out 'Evg', this goes from index 0 up through index 2 (but not including 3)
