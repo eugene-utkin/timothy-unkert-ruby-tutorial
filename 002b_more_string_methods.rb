@@ -14,3 +14,5 @@ puts my_name[0, 3] # prints out 'Evg', this goes from index 0 up through index 2
 
 # finding the index of a specific character in a string
 puts my_website.index("u")
+
+puts my_website.length
