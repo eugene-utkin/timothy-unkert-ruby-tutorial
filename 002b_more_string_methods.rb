@@ -4,4 +4,4 @@ my_website = "https://unkertmedia.com"
 
 # printing out specific characters in a string
 puts my_name[0] # print out 'E'
-puts my_name[-1] # print out 'n'
+puts my_name[-1] # print out 'n', the last character of the string
