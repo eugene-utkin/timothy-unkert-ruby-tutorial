@@ -15,3 +15,5 @@ puts pi.class # outputs 'Float'
 
 # let's declare and initialize a boolean
 is_programmer = true
+
+puts is_programmer.class
