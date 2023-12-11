@@ -1,4 +1,4 @@
 # strings
 my_name = "Evgeniy Utkin"
 
-puts my_name.class
+puts my_name.class # outputs 'String'
