@@ -23,3 +23,4 @@ is_english_teacher = false
 puts is_english_teacher.class # outputs 'FalseClass'
 
 # nil type
+has_money = nil
