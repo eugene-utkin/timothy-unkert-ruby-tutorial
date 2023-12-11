@@ -17,3 +17,5 @@ puts pi.class # outputs 'Float'
 is_programmer = true
 
 puts is_programmer.class # outputs 'TrueClass'
+
+is_english_teacher = false
