@@ -25,4 +25,4 @@ puts is_english_teacher.class # outputs 'FalseClass'
 # nil type
 has_money = nil
 
-puts has_money.class
+puts has_money.class # outputs 'NilClass'
