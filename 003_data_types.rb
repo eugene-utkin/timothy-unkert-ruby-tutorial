@@ -21,3 +21,5 @@ puts is_programmer.class # outputs 'TrueClass'
 is_english_teacher = false
 
 puts is_english_teacher.class # outputs 'FalseClass'
+
+# nil type
