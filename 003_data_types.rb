@@ -9,3 +9,4 @@ my_age = 37
 puts my_age.class # outputs 'Integer'
 
 # let's declare and initialize a float
+pi = 3.14
