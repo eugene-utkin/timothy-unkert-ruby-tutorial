@@ -7,3 +7,5 @@ puts my_name.class # outputs 'String'
 my_age = 37
 
 puts my_age.class # outputs 'Integer'
+
+# let's declare and initialize a float
