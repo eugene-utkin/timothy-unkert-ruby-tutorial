@@ -12,3 +12,5 @@ puts my_age.class # outputs 'Integer'
 pi = 3.14
 
 puts pi.class # outputs 'Float'
+
+# let's declare and initialize a boolean
