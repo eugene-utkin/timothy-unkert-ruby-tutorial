@@ -39,3 +39,5 @@ my_hash = {
   "age" => 37,
   "website" => "https://unkertmedia.com"
 }
+
+puts my_hash.class
