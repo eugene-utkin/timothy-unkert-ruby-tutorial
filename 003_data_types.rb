@@ -30,4 +30,4 @@ puts has_money.class # outputs 'NilClass'
 # arrays
 my_arr = Array.new(10)
 
-puts my_arr.class
+puts my_arr.class # outputs 'Array'
