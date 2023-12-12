@@ -36,5 +36,6 @@ puts my_arr.class # outputs 'Array'
 # store key, value pair - like dictionary in python
 my_hash = {
   "name" => "Evgeniy Utkin",
-  "age" => 37
+  "age" => 37,
+  "website" => "https://unkertmedia.com"
 }
