@@ -40,4 +40,4 @@ my_hash = {
   "website" => "https://unkertmedia.com"
 }
 
-puts my_hash.class
+puts my_hash.class # outputs 'Hash'
