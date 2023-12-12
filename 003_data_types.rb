@@ -26,3 +26,5 @@ puts is_english_teacher.class # outputs 'FalseClass'
 has_money = nil
 
 puts has_money.class # outputs 'NilClass'
+
+# arrays
