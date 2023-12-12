@@ -28,3 +28,4 @@ has_money = nil
 puts has_money.class # outputs 'NilClass'
 
 # arrays
+my_arr = Array.new(10)
