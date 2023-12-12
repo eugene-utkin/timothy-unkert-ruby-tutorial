@@ -34,4 +34,6 @@ puts my_arr.class # outputs 'Array'
 
 # hashes
 # store key, value pair - like dictionary in python
-my_hash = {}
+my_hash = {
+  "name" => "Evgeniy Utkin"
+}
