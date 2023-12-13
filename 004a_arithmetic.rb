@@ -15,4 +15,6 @@ puts 2 ** 3 # gives me 2^3 = 8
 num_1, num_2, num_3 = 4, 5, 6 # declared and initialized three variables at once
 puts (num_1 + num_2) * num_3
 puts num_1 + num_2 * num_3
+
 # PEMDAS
+# P - parenthesis
