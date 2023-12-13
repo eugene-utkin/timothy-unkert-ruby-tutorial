@@ -7,3 +7,4 @@ puts 4 * 5.0 # outputs 20.0
 puts 12 / 5 # outputs 2
 puts 12.0 / 5 # outputs 2.4
 puts 12 / 5.0 # outputs 2.4
+puts 12.0 / 5.0
