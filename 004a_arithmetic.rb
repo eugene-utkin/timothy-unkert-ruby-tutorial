@@ -19,3 +19,4 @@ puts num_1 + num_2 * num_3
 # PEMDAS
 # P - parenthesis
 # E - exponents
+# M - multiplication
