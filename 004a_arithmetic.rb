@@ -20,3 +20,4 @@ puts num_1 + num_2 * num_3
 # P - parenthesis
 # E - exponents
 # M - multiplication
+# D - division
