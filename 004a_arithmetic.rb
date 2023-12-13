@@ -8,4 +8,4 @@ puts 12 / 5 # outputs 2
 puts 12.0 / 5 # outputs 2.4
 puts 12 / 5.0 # outputs 2.4
 puts 12.0 / 5.0 # outputs 2.4
-puts 12 % 5 # outputs 2
+puts 12 % 5 # prints 2, the remainder - this is called the modulo operator
