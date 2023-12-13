@@ -10,3 +10,5 @@ puts 12 / 5.0 # outputs 2.4
 puts 12.0 / 5.0 # outputs 2.4
 puts 12 % 5 # prints 2, the remainder - this is called the modulo operator
 puts 2 ** 3 # gives me 2^3 = 8
+
+# variables
