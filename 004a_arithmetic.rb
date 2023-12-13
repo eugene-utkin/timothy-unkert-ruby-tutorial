@@ -12,3 +12,4 @@ puts 12 % 5 # prints 2, the remainder - this is called the modulo operator
 puts 2 ** 3 # gives me 2^3 = 8
 
 # variables
+num_1, num_2, num_3 = 4, 5, 6
