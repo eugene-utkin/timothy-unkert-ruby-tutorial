@@ -21,3 +21,4 @@ puts num_1 + num_2 * num_3
 # E - exponents
 # M - multiplication
 # D - division
+# A - addition
