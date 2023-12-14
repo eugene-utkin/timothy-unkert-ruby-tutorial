@@ -14,4 +14,4 @@ pi_int = pi.to_int
 
 puts pi_int.class
 
-puts "The value if pi converted to an integer is " + pi_int.to_s + "."
+puts "The value of pi converted to an integer is " + pi_int.to_s + "."
