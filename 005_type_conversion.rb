@@ -11,6 +11,7 @@ pi = 3.14
 puts "The value of pi is " + pi.to_s + "."
 
 pi_int = pi.to_int
+# cuts off the decimal part
 
 puts pi_int.class
 
