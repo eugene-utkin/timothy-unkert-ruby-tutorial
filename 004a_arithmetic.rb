@@ -22,3 +22,4 @@ puts num_1 + num_2 * num_3
 # M - multiplication
 # D - division
 # A - addition
+# S - subtraction
