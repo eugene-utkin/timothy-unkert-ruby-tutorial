@@ -8,3 +8,4 @@ puts num_3.abs
 dec_1, dec_2, dec_3 = 3.14, 2.7845678, 1.2345
 
 # we can use the round method to round numbers to a certain decimal place
+puts dec_1.round(1)
