@@ -19,3 +19,4 @@ puts dec_3
 
 # we can use the ceil method - round up to a specified number of digits
 puts dec_1.ceil
+puts dec_2.ceil(2)
