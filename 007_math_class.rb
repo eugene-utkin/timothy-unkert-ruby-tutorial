@@ -1,1 +1,2 @@
-require 'bigdecimal/math' 
+require 'bigdecimal/math'
+include BigMath
