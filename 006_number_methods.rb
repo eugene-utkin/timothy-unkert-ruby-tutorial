@@ -24,3 +24,4 @@ puts dec_3.ceil(1)
 
 # we can also use the floor method - round down to a specified number of digits
 puts dec_1.floor
+puts dec_2.floor(2)
