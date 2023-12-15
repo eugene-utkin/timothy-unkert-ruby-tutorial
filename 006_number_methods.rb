@@ -15,3 +15,4 @@ puts dec_3.round # round to 0 decimal places
 # notice that numbers are not permanently changed
 puts dec_1
 puts dec_2
+puts dec_3
