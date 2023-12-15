@@ -13,3 +13,4 @@ puts dec_2.round(2) # round to 2 decimal places
 puts dec_3.round # round to 0 decimal places
 
 # notice that numbers are not permanently changed
+puts dec_1
