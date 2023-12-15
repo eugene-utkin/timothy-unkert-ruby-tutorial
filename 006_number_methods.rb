@@ -21,3 +21,5 @@ puts dec_3
 puts dec_1.ceil
 puts dec_2.ceil(2)
 puts dec_3.ceil(1)
+
+# we can also use the floor method - round down to a specified number of digits
