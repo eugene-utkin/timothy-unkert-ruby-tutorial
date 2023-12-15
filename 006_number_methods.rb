@@ -11,3 +11,5 @@ dec_1, dec_2, dec_3 = 3.14, 2.7845678, 1.2345
 puts dec_1.round(1) # rounding to 1 decimal place
 puts dec_2.round(2) # round to 2 decimal places
 puts dec_3.round # round to 0 decimal places
+
+# notice that numbers are not permanently changed
