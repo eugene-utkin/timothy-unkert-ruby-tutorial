@@ -6,4 +6,4 @@ puts Math.sin(BigMath.PI(10) / 4)
 
 puts Math.sqrt(16) # print 4.0 (float)
 
-puts Math.log(64, 8) # prints 2.0, because 8^2 = 64
+puts Math.log(64, 8) # prints 2.0, because 8^2 = 64 (float)
