@@ -5,4 +5,4 @@ puts names_list.class # outputs 'Array'
 
 # print specific items in the array
 puts names_list[0] # print "Tim"
-puts names_list[-1] # print "Moses"
+puts names_list[-1] # print "Moses", the last item in the array
