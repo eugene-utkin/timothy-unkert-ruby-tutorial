@@ -10,4 +10,4 @@ my_age = 37
 
 puts "My name is %s and my age is %d" % [my_name, my_age]
 
-puts "The value of PI to 5 decimal places is %.5f"
+puts "The value of PI to 5 decimal places is %.5f" % [BigMath.PI(10)]
