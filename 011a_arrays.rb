@@ -2,3 +2,5 @@
 names_list = Array["Tim", "Sean", "Sarah", "Joe", "Aaron", "Matt", "Moses"]
 
 puts names_list.class # outputs 'Array'
+
+# print specific items in the array
