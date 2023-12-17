@@ -9,3 +9,5 @@ print "My name is %s and my occupation is %s.\n" % [my_name, my_occupation]
 my_age = 37
 
 puts "My name is %s and my age is %d" % [my_name, my_age]
+
+puts "The value of PI to 5 decimal places is %.5f"
