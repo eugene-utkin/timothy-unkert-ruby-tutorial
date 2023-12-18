@@ -8,4 +8,4 @@ puts names_list[0] # print "Tim"
 puts names_list[-1] # print "Moses", the last item in the array
 puts names_list[1, 4] # prints out indices 1 through 4 each on a separate line
 puts "============"
-puts names_list[0, 2] # a little funky thing with Ruby
+puts names_list[0, 2] # a little funky thing with Ruby printed indices 0 and 1 but not 2
