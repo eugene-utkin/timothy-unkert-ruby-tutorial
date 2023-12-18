@@ -14,3 +14,5 @@ puts names_list[0, 4] # interesting
 
 # create an empty array with a size of 20
 my_arr_1 = Array.new(20)
+
+puts my_arr_1.class
