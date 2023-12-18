@@ -10,3 +10,4 @@ puts names_list
 puts "+++++++++++++++++"
 
 print names_list
+print "\n"
