@@ -11,3 +11,5 @@ puts "============"
 puts names_list[0, 2] # a little funky thing with Ruby printed indices 0 and 1 but not 2
 puts "============"
 puts names_list[0, 4] # interesting
+
+# create an empty array with a size of 20
