@@ -18,3 +18,5 @@ odds_arr = Array.new(10) { |x| x = x * 2 + 1 } # starting at 1 and incrementing 
 
 print odds_arr
 print "\n"
+
+# a way to print the array on one line with puts
