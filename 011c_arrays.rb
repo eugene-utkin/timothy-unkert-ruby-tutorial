@@ -12,3 +12,4 @@ my_third_arr = Array.new(10, "Tim")
 puts my_third_arr.length
 
 print my_third_arr
+print "\n"
