@@ -14,4 +14,4 @@ puts my_third_arr.length
 print my_third_arr
 print "\n"
 
-odds_arr = Array.new(10) { |x| x = x * 2 + 1 }
+odds_arr = Array.new(10) { |x| x = x * 2 + 1 } # starting at 1 and incrementing by 2
