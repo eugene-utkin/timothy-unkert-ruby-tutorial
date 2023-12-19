@@ -20,3 +20,4 @@ print odds_arr
 print "\n"
 
 # a way to print the array on one line with puts
+puts "#{odds_arr}"
