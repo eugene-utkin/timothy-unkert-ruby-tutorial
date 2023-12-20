@@ -18,3 +18,4 @@ my_other_char = "a"
 
 # convert the characters to Ascii values
 puts my_char.ord
+puts my_other_char.ord
