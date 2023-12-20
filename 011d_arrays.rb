@@ -17,3 +17,4 @@ my_char = "A"
 my_other_char = "a"
 
 # convert the characters to Ascii values
+puts my_char.ord
