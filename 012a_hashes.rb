@@ -5,3 +5,5 @@ myself = {
   "age" => 46,
   "website" => "https://unkertmedia.com"
 }
+
+puts myself
