@@ -9,3 +9,5 @@ myself = {
 puts myself
 
 puts myself["age"]
+
+# more of a python type loop in ruby
