@@ -7,3 +7,5 @@ myself = {
 }
 
 puts myself
+
+puts myself["age"]
