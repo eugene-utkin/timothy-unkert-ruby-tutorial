@@ -14,3 +14,4 @@ third_arr = ["A", "a", "B", "b", "c", "C"]
 puts "#{third_arr.sort}" # sorts it according to Ascii values
 
 my_char = "A"
+my_other_char = "a"
