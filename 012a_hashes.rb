@@ -16,5 +16,5 @@ for k, v in myself do
 end
 
 myself_hash = {
-
+  :name => "Timothy Unkert"
 }
