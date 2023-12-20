@@ -1,5 +1,6 @@
 # you want unique key
 
 myself = {
-  "name" => "Timothy Unkert"
+  "name" => "Timothy Unkert",
+  "age" => 46
 }
