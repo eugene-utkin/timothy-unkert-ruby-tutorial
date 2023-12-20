@@ -14,7 +14,7 @@ third_arr = ["A", "a", "B", "b", "c", "C"]
 puts "#{third_arr.sort}" # sorts it according to Ascii values
 
 my_char = "A" # has an Ascii value of 65
-my_other_char = "a"
+my_other_char = "a" # has an Ascii value of 97
 
 # convert the characters to Ascii values
 puts my_char.ord
