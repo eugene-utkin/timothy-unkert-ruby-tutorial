@@ -14,3 +14,7 @@ puts myself["age"]
 for k, v in myself do
   puts k + ": " + v.to_s
 end
+
+myself_hash = {
+
+}
