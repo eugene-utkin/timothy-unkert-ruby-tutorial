@@ -28,3 +28,5 @@ key_num_hash = {
   2 => "cool"
   3 => "well, it's just o.k."
 }
+
+puts key_num_hash[1]
