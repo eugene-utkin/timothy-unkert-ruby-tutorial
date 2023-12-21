@@ -12,3 +12,5 @@ my_second_hash["Greeting"] = "Hi"
 my_second_hash["name"] = "Tim"
 
 puts my_second_hash
+
+my_second_hash.clear
