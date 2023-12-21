@@ -25,7 +25,7 @@ puts myself_hash[:website]
 
 key_num_hash = {
   1 => "wow",
-  2 => "cool"
+  2 => "cool",
   3 => "well, it's just o.k."
 }
 
