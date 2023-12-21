@@ -22,3 +22,7 @@ myself_hash = {
 }
 
 puts myself_hash[:website]
+
+key_num_hash = {
+
+}
