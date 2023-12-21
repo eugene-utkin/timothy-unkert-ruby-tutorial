@@ -24,5 +24,6 @@ myself_hash = {
 puts myself_hash[:website]
 
 key_num_hash = {
-  1 => "wow"
+  1 => "wow",
+  2 => "cool"
 }
