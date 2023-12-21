@@ -17,3 +17,4 @@ puts my_second_hash
 # puts my_second_hash
 
 # better iteration
+my_second_hash.each { |key, value| puts "#{key}: #{value}" }
