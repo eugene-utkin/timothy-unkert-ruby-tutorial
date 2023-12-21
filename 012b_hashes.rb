@@ -15,3 +15,5 @@ puts my_second_hash
 
 # my_second_hash.clear
 # puts my_second_hash
+
+# better iteration
