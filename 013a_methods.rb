@@ -15,4 +15,4 @@ end
 # call our method
 puts square(3)
 puts exponent(2, 3)
-greeting("Tim")
+puts greeting("Tim")
