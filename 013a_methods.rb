@@ -12,6 +12,10 @@ def greeting(name)
   "Hello, " + name + "." # we do not need the return statement
 end
 
+def print_hello
+
+end
+
 # call our method
 puts square(3)
 puts exponent(2, 3)
