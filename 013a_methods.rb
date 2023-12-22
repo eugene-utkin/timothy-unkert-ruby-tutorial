@@ -13,7 +13,7 @@ def greeting(name)
 end
 
 def print_hello
-
+  puts "Hello"
 end
 
 # call our method
