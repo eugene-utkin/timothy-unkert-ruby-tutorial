@@ -5,8 +5,7 @@ def square(num)
 end
 
 def exponent(base, power)
-  return base ** power
-  puts "This line does nothing"
+  base ** power
 end
 
 # call our method
