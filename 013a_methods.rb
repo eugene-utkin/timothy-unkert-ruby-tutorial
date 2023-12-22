@@ -8,6 +8,10 @@ def exponent(base, power)
   base ** power
 end
 
+def greeting
+
+end
+
 # call our method
 puts square(3)
 puts exponent(2, 3)
