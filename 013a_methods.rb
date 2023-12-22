@@ -3,3 +3,5 @@
 def square(num)
   num * num
 end
+
+# call our method
