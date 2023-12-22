@@ -20,3 +20,4 @@ end
 puts square(3)
 puts exponent(2, 3)
 puts greeting("Tim")
+print_hello
