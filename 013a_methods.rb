@@ -6,6 +6,7 @@ end
 
 def exponent(base, power)
   return base ** power
+  puts "This line does nothing"
 end
 
 # call our method
