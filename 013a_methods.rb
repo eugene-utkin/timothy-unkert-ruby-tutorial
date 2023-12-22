@@ -5,3 +5,4 @@ def square(num)
 end
 
 # call our method
+square(3)
