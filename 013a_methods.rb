@@ -9,7 +9,7 @@ def exponent(base, power)
 end
 
 def greeting(name)
-
+  "Hello, " + name + "."
 end
 
 # call our method
