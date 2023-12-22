@@ -4,7 +4,7 @@ def square(num)
   num * num
 end
 
-def exponent
+def exponent(base)
 
 end
 
