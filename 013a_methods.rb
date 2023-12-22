@@ -4,5 +4,9 @@ def square(num)
   num * num
 end
 
+def exponent
+
+end
+
 # call our method
 puts square(3)
