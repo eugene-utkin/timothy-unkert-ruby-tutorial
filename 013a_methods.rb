@@ -8,7 +8,7 @@ def exponent(base, power)
   base ** power
 end
 
-def greeting
+def greeting(name)
 
 end
 
