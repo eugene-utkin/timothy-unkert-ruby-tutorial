@@ -11,4 +11,4 @@ end
 
 # call our method
 puts square(3)
-exponent(2, 3)
+puts exponent(2, 3)
