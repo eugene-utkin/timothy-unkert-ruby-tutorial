@@ -1,3 +1,3 @@
-def occupation
+def occupation(job)
 
 end
