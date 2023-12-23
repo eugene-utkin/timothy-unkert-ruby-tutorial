@@ -4,3 +4,8 @@ if 9 == 9
 end
 
 # basic structure of an if else statement
+if true
+
+else
+
+end
