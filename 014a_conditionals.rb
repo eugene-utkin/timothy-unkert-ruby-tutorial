@@ -9,3 +9,5 @@ if true
 else
   puts "This is false"
 end
+
+is_programmer = true
