@@ -3,4 +3,4 @@ def occupation(job="programmer")
 end
 
 puts occupation
-occupation("math teacher")
+puts occupation("math teacher")
