@@ -1,3 +1,3 @@
-def occupation(job)
+def occupation(job="programmer")
 
 end
