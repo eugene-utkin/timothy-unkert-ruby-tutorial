@@ -13,7 +13,7 @@ end
 is_programmer = true
 
 if is_programmer
-
+  puts "You are a programmer."
 else
 
 end
