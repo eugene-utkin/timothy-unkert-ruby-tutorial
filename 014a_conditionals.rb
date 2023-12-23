@@ -5,7 +5,7 @@ end
 
 # basic structure of an if else statement
 if true
-
+  puts "This is true"
 else
 
 end
