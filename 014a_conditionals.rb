@@ -28,5 +28,5 @@ elsif is_math_teacher
 elsif is_no_job
   puts "You have no job"
 else
-
+  puts "We are not sure of your employment status"
 end
