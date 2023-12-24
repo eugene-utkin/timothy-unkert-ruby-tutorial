@@ -5,6 +5,6 @@ is_jobless = false
 
 if is_programmer and is_math_teacher
   puts "You are a programmer and a math teacher!"
-elsif
-  
+elsif is_math_teacher and is_jobless
+
 end
