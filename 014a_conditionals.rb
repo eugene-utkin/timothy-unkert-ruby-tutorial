@@ -24,7 +24,7 @@ is_no_job = false
 if is_programmer
   puts "You are a programmer"
 elsif is_math_teacher
-
+  puts "You are a math teacher"
 elsif is_no_job
 
 else
