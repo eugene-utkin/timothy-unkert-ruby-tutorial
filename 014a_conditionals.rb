@@ -22,7 +22,7 @@ is_math_teacher = true
 is_no_job = false
 
 if is_programmer
-
+  puts "You are a programmer"
 elsif
 
 elsif
