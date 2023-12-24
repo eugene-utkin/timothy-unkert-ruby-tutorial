@@ -26,7 +26,7 @@ if is_programmer
 elsif is_math_teacher
   puts "You are a math teacher"
 elsif is_no_job
-
+  puts "You have no job"
 else
 
 end
