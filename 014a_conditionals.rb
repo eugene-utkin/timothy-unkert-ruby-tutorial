@@ -17,3 +17,5 @@ if is_programmer
 else
   puts "You are not a programmer."
 end
+
+is_math_teacher = true
