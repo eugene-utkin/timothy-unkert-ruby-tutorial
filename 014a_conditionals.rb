@@ -19,3 +19,4 @@ else
 end
 
 is_math_teacher = true
+is_no_job = false
