@@ -16,5 +16,5 @@ if not is_jobless
 end
 
 if !is_jobless
-
+  puts "You definitely have a job."
 end
