@@ -2,6 +2,8 @@
 def find_min(*args) # allows me to pass in any amount of arguments
   min_num = args[0]
   args.each do |number|
+    if number < min_num
 
+    end
   end
 end
