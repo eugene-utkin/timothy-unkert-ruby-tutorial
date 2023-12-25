@@ -10,3 +10,7 @@ elsif is_math_teacher and is_jobless
 elsif is_programmer or is_jobless
   puts "You are an unemployed programmer."
 end
+
+if not is_jobless
+
+end
