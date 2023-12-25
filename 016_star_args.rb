@@ -9,4 +9,4 @@ def find_min(*args) # allows me to pass in any amount of arguments
   min_num
 end
 
-puts(find_min(1, 5, -3, 6, 8, 0))
+puts(min(1, 5, -3, 6, 8, 0, -10, 121, 3, 4, 4, 5))
