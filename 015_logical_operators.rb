@@ -14,3 +14,7 @@ end
 if not is_jobless
   puts "You have a job."
 end
+
+if !is_jobless
+
+end
