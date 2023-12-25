@@ -8,3 +8,5 @@ def find_min(*args) # allows me to pass in any amount of arguments
   end
   min_num
 end
+
+find_min(1, 5, -3, 6, 8, 0)
