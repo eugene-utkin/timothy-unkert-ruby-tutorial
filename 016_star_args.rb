@@ -6,4 +6,5 @@ def find_min(*args) # allows me to pass in any amount of arguments
       min_num = number
     end
   end
+  min_num
 end
