@@ -12,5 +12,5 @@ elsif is_programmer or is_jobless
 end
 
 if not is_jobless
-
+  puts "You have a job."
 end
