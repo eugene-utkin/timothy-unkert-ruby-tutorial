@@ -19,5 +19,7 @@ current_year = Date.today.year.to_i
 if birthday_month < current_month
   year_born = current_year - age
 elsif birthday_month == current_month
+  if birthday_day <= current_day
 
+  end
 end
