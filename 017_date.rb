@@ -11,4 +11,4 @@ age = gets.chomp.to_i
 
 current_month = Date.today.month
 current_day = Date.today.day.to_i
-current_year = Date.today.year
+current_year = Date.today.year.to_i
