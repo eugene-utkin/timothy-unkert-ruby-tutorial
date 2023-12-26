@@ -7,3 +7,4 @@ puts "What day is your birthday (1 to 31)?"
 birthday_day = gets.chomp.to_i
 
 puts "What age are you?"
+age = gets.chomp
