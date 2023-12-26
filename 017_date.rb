@@ -20,6 +20,6 @@ if birthday_month < current_month
   year_born = current_year - age
 elsif birthday_month == current_month
   if birthday_day <= current_day
-
+    year_born = current_year - age
   end
 end
