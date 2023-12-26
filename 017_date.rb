@@ -10,3 +10,4 @@ puts "What age are you?"
 age = gets.chomp.to_i
 
 current_month = Date.today.month
+current_day = Date.today.day
