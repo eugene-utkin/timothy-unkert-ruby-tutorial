@@ -15,3 +15,7 @@ current_year = Date.today.year.to_i
 
 # puts current_month
 # puts current_day
+
+if birthday_month < current_month
+
+end
