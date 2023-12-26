@@ -14,3 +14,4 @@ current_day = Date.today.day.to_i
 current_year = Date.today.year.to_i
 
 puts current_month
+puts current_day
