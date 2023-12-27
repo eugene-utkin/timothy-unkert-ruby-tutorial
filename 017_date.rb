@@ -25,4 +25,5 @@ elsif birthday_month == current_month
     year_born = current_year - age - 1
   end
 else
+  year_born = current_year - age - 1
 end
