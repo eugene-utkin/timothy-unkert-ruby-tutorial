@@ -27,3 +27,5 @@ elsif birthday_month == current_month
 else
   year_born = current_year - age - 1
 end
+
+puts "You were born in "
