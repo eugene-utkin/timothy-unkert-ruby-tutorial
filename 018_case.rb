@@ -11,4 +11,5 @@ when 12..15
   puts "x is between 12 and 15 (including 12 and 15)"
 when 16
   puts "x is 16"
+else
 end
