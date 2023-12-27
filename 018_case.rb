@@ -12,4 +12,5 @@ when 12..15
 when 16
   puts "x is 16"
 else # like default
+  puts "I don't know what number x is."
 end
