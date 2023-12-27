@@ -9,4 +9,5 @@ when 11
   puts "x is 11"
 when 12..15
   puts "x is between 12 and 15 (including 12 and 15)"
+when 16
 end
