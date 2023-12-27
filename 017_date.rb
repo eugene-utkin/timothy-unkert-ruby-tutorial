@@ -28,4 +28,4 @@ else
   year_born = current_year - age - 1
 end
 
-puts "You were born in "
+puts "You were born in " + year_born.to_s
