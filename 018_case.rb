@@ -4,5 +4,5 @@
 x = 22
 case x
 when 1..10
-
+  puts "x is between 1 and 10 (including 1 and 10)"
 end
