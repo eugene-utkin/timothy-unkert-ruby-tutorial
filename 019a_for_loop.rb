@@ -5,6 +5,8 @@ for i in my_nums do
   puts my_nums[i]
 end
 
+puts "============"
+
 my_nums.each do |num|
   puts num
 end
