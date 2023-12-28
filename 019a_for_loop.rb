@@ -6,5 +6,5 @@ for i in my_nums do
 end
 
 my_nums.each do |num|
-
+  puts num
 end
