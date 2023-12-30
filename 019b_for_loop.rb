@@ -5,5 +5,6 @@ for i in 1..100
   elsif i % 3 == 0
     puts "Fizz"
   elsif i % 5 == 0
+    puts "Buzz"
   end
 end
