@@ -5,5 +5,6 @@ while count < 101
     puts "Fizzbuzz"
   elsif count % 5 == 0
     puts "Buzz"
+  elsif count % 3 == 0
   end
 end
