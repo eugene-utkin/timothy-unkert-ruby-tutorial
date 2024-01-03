@@ -10,4 +10,5 @@ while count < 101
   else
     puts count
   end
+  count += 1
 end
