@@ -7,5 +7,6 @@ while count < 101
     puts "Buzz"
   elsif count % 3 == 0
     puts "Fizz"
+  else
   end
 end
