@@ -8,5 +8,6 @@ while count < 101
   elsif count % 3 == 0
     puts "Fizz"
   else
+    puts count
   end
 end
