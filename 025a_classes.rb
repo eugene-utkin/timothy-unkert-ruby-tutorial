@@ -4,3 +4,4 @@ class Teacher
 end
 
 ruby_teacher = Teacher.new
+ruby_teacher.fname = "Tim"
