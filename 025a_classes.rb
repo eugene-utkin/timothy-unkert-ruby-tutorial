@@ -7,3 +7,5 @@ ruby_teacher = Teacher.new
 ruby_teacher.fname = "Tim"
 ruby_teacher.lname = "Unkert"
 ruby_teacher.age = 46
+
+puts ruby_teacher.fname + " " + puts ruby_teacher.lname + " is " + puts ruby_teacher.age.to_s + "years old."
