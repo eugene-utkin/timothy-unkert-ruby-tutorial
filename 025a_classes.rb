@@ -15,3 +15,4 @@ class Student < Teacher
 end
 
 student_1 = Student.new
+student_1.fname = "Joe"
