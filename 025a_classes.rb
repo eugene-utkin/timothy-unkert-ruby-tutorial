@@ -13,3 +13,5 @@ puts ruby_teacher.fname + " " + ruby_teacher.lname + " is " + ruby_teacher.age.t
 class Student < Teacher
   attr_accessor :studentID
 end
+
+student_1 = Student.new
