@@ -16,3 +16,4 @@ end
 
 student_1 = Student.new
 student_1.fname = "Joe"
+student_1.lname = "Smoe"
