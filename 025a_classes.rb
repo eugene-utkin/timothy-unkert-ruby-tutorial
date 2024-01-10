@@ -18,3 +18,4 @@ student_1 = Student.new
 student_1.fname = "Joe"
 student_1.lname = "Smoe"
 student_1.age = 23
+student_1.studentID = 001
