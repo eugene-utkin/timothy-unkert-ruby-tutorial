@@ -19,3 +19,7 @@ student_1.fname = "Joe"
 student_1.lname = "Smoe"
 student_1.age = 23
 student_1.studentID = 001
+
+puts student_1.fname + " " + student_1.lname + " is " + student_1.age.to_s\
++ " years old and has student ID "\
++ student_1.studentID.to_s + "."
