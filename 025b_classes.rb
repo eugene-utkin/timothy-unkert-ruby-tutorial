@@ -8,3 +8,5 @@ class Teacher
     @website = website
   end
 end
+
+ruby_teacher = Teacher.new("Timothy", "Unkert", 46, "https://unkertmedia.com") 
