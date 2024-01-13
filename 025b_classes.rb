@@ -4,5 +4,6 @@ class Teacher
   def initialize(fname, lname, age, website)
     @fname = fname
     @lname = lname
+    @age = age
   end
 end
