@@ -17,5 +17,5 @@ ruby_teacher.age.to_s + " years old and whose website is " + \
 ruby_teacher.website + "."
 
 class Student < Teacher
-
+  attr_accessor :studentID
 end
