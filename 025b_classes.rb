@@ -21,5 +21,6 @@ class Student < Teacher
 
   def initialize(fname, lname, age, website, studentID)
     @fname = fname
+    @lname = lname
   end
 end
