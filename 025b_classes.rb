@@ -19,7 +19,7 @@ ruby_teacher.website + "."
 class Student < Teacher
   attr_accessor :studentID
 
-  def initialize
+  def initialize(fname, lname, age, website, studentID)
 
   end
 end
