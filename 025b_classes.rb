@@ -20,6 +20,6 @@ class Student < Teacher
   attr_accessor :studentID
 
   def initialize(fname, lname, age, website, studentID)
-
+    @fname = fname
   end
 end
