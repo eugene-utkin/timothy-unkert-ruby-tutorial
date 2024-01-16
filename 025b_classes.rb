@@ -24,5 +24,6 @@ class Student < Teacher
     @lname = lname
     @age = age
     @website = website
+    @studentID = studentID
   end
 end
