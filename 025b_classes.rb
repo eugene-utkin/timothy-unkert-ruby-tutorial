@@ -29,3 +29,5 @@ class Student < Teacher
 end
 
 student_1 = Student.new("Joe", "Smoe", 23, "nil", 001)
+
+puts student_1.website
