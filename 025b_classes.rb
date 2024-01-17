@@ -27,3 +27,5 @@ class Student < Teacher
     @studentID = studentID
   end
 end
+
+student_1 = Student.new("Joe", "Smoe", 23, "nil", 001)
