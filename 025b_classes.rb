@@ -19,12 +19,12 @@ ruby_teacher.website + "."
 class Student < Teacher
   attr_accessor :student_ID
 
-  def initialize(fname, lname, age, website, studentID)
+  def initialize(fname, lname, age, website, student_ID)
     @fname = fname
     @lname = lname
     @age = age
     @website = website
-    @studentID = studentID
+    @studentID = student_ID
   end
 end
 
