@@ -6,5 +6,6 @@ for i in 1..100 do
   elsif i % 3 == 0
     file.write("Fizz\n")
   elsif i % 5 == 0
+    file.write("Buzz\n")
   end
 end
