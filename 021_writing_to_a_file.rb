@@ -9,5 +9,6 @@ for i in 1..100 do
     file.write("Buzz\n")
   else
     file.write(i)
+    file.write("\n")
   end
 end
