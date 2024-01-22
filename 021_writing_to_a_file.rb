@@ -8,5 +8,6 @@ for i in 1..100 do
   elsif i % 5 == 0
     file.write("Buzz\n")
   else
+    file.write(i)
   end
 end
