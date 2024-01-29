@@ -4,6 +4,7 @@ print "Enter two numbers to divide.\n"
 print "What is the numerator?\n"
 my_num = gets.chomp.to_f
 print "What is the denominator?\n"
+my_den = gets.chomp.to_f
 
 begin
   puts my_arr[3]
