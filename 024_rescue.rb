@@ -7,7 +7,7 @@ print "What is the denominator? "
 my_den = gets.chomp.to_f
 
 if my_den == 0.0
-
+  my_num = my_num.to_i
 end
 
 begin
