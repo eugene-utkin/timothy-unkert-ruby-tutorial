@@ -6,6 +6,10 @@ my_num = gets.chomp.to_f
 print "What is the denominator? "
 my_den = gets.chomp.to_f
 
+if my_den == 0.0
+
+end
+
 begin
   puts my_arr[3]
   puts my_arr["three"]
