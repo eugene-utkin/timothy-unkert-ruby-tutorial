@@ -14,6 +14,7 @@ end
 begin
   # puts my_arr[3]
   # puts my_arr["three"]
+  puts "The quotient of the division is " + (my_num / my_den).to_f 
 rescue TypeError
   puts "Indices of the array must be integers."
 end
