@@ -12,8 +12,8 @@ if my_den == 0.0
 end
 
 begin
-  puts my_arr[3]
-  puts my_arr["three"]
+  # puts my_arr[3]
+  # puts my_arr["three"]
 rescue TypeError
   puts "Indices of the array must be integers."
 end
