@@ -17,4 +17,5 @@ begin
   puts "The quotient of the division is " + (my_num / my_den).to_f 
 rescue TypeError
   puts "Indices of the array must be integers."
+rescue ZeroDivisionError
 end
