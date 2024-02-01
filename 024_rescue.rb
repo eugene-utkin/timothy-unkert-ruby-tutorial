@@ -1,4 +1,4 @@
-# my_arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+my_arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 print "Enter two numbers to divide.\n"
 print "What is the numerator? "
@@ -14,7 +14,7 @@ end
 begin
   # puts my_arr[3]
   # puts my_arr["three"]
-  puts "The quotient of the division is " + (my_num / my_den).to_f.to_s
+  # puts "The quotient of the division is " + (my_num / my_den).to_f.to_s
 rescue TypeError
   puts "Indices of the array must be integers."
 rescue ZeroDivisionError
