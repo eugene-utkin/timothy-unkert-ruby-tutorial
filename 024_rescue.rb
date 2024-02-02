@@ -22,4 +22,5 @@ rescue ZeroDivisionError
   puts "Listen bro, you can't have a denominator of zero!"
 rescue IndexError => err
   puts "The array does not contain that index, bro."
+  puts err
 end
