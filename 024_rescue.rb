@@ -20,4 +20,5 @@ rescue TypeError
   puts "Indices of the array must be integers."
 rescue ZeroDivisionError
   puts "Listen bro, you can't have a denominator of zero!"
+rescue IndexError => err
 end
