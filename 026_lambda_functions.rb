@@ -1,0 +1,1 @@
+# lambda functions are anonymous functions in ruby ... and python
