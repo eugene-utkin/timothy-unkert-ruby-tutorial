@@ -4,4 +4,5 @@ cube_num = lambda { |num| num ** 3 }
 
 # we can pass a lambda function into another function
 def apply_lamby(lamby, number)
+  puts lamby.call(number)
 end
