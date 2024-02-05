@@ -6,3 +6,5 @@ cube_num = lambda { |num| num ** 3 }
 def apply_lamby(lamby, number)
   puts lamby.call(number)
 end
+
+apply_lamby(square_num, 16)
