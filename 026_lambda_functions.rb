@@ -8,3 +8,4 @@ def apply_lamby(lamby, number)
 end
 
 apply_lamby(square_num, 16)
+apply_lamby(cube_num, 8)
