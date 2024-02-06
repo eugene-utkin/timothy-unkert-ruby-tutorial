@@ -4,3 +4,5 @@
 
 # cubing a number
 cube = Proc.new { |x| x ** 3 }
+
+puts cube.call(3)
