@@ -3,3 +3,4 @@
 # Might be called "closures" in other languages
 
 # cubing a number
+cube = Proc.new { |x| x ** 3 }
