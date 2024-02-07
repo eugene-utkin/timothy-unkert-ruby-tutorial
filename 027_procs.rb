@@ -8,6 +8,6 @@ cube = Proc.new { |x| x ** 3 }
 puts cube.call(3)
 
 # let's create an incrementor function
-def incrementor
+def incrementor(val)
 
 end
