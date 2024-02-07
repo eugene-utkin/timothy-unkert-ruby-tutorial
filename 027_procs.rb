@@ -14,3 +14,5 @@ end
 
 increase_by_3 = incrementor(3)
 increase_by_5 = incrementor(5)
+
+puts increase_by_3
