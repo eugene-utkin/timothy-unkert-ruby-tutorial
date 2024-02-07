@@ -9,5 +9,5 @@ puts cube.call(3)
 
 # let's create an incrementor function
 def incrementor(val)
-
+  Proc.new { |x| x + val }
 end
