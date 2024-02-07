@@ -11,3 +11,5 @@ puts cube.call(3)
 def incrementor(val)
   Proc.new { |x| x + val }
 end
+
+increase_by_3 = incrementor(3)
