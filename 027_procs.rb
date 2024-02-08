@@ -12,6 +12,10 @@ def incrementor(val)
   Proc.new { |x| x + val }
 end
 
+def multiplier
+
+end
+
 increase_by_3 = incrementor(3)
 increase_by_5 = incrementor(5)
 
