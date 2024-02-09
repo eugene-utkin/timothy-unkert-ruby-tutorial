@@ -13,7 +13,7 @@ def incrementor(val)
 end
 
 def multiplier(val)
-
+  Proc.new { |x| x * val }
 end
 
 increase_by_3 = incrementor(3)
