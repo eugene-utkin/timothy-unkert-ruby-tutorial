@@ -23,3 +23,4 @@ puts increase_by_3.call(10)
 puts increase_by_5.call(10)
 
 multiply_by_10 = multiplier(10)
+divide_by_10 = multiplier(0.1)
