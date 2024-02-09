@@ -26,3 +26,4 @@ multiply_by_10 = multiplier(10)
 divide_by_10 = multiplier(0.1)
 
 puts multiply_by_10(2)
+puts divide_by_10(300)
