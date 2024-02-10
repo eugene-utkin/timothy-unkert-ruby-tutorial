@@ -26,4 +26,4 @@ multiply_by_10 = multiplier(10)
 divide_by_10 = multiplier(0.1)
 
 puts multiply_by_10.call(2)
-puts divide_by_10(300)
+puts divide_by_10.call(300)
