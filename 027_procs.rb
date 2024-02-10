@@ -25,5 +25,5 @@ puts increase_by_5.call(10)
 multiply_by_10 = multiplier(10)
 divide_by_10 = multiplier(0.1)
 
-puts multiply_by_10(2)
+puts multiply_by_10.call(2)
 puts divide_by_10(300)
