@@ -4,7 +4,7 @@ module OneStep
     "x + " + num_1.to_s + " = " + num_2.to_s
   end
 
-  def create_solution(num_1)
+  def create_solution(num_1, num_2)
 
   end
 end
