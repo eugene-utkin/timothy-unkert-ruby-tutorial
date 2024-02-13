@@ -6,5 +6,6 @@ module OneStep
 
   def create_solution(num_1, num_2)
     difference = num_2 - num_1
+    "x = " + difference.to_s
   end
 end
