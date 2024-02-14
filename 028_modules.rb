@@ -3,3 +3,5 @@ include OneStep
 
 problem_1 = OneStep.create_problem(5, 3)
 solution_1 = OneStep.create_solution(5, 3)
+
+puts problem_1
